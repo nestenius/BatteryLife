@@ -90,6 +90,7 @@
     <None Include="Resources\icon-stop.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BatteryLife.png" />
     <Content Include="Resources\icon-battery.ico" />
   </ItemGroup>
   <ItemGroup>
